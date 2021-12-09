@@ -35,7 +35,7 @@
 ### Other Skills
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Premiere Pro](![image](https://user-images.githubusercontent.com/47351101/145396362-04fe13b5-ef19-4fc0-b6fb-a345ff989237.png)
+![Premiere Pro](https://user-images.githubusercontent.com/47351101/145396362-04fe13b5-ef19-4fc0-b6fb-a345ff989237.png)
 
 
 
