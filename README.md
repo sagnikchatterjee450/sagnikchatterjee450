@@ -6,6 +6,7 @@
 
 - My full name is Sagnik Chatterjee. 
 - I am a 15 year old learning full stack web, python, Java developer based in India who want to dive into this ocean of tech, information, programming and understanding. 
+- Top 5 at Teen Tech San Francisco.
 - I am currently working at [Tezucka](https://tezucka.xyz) as Chief Executive Officer
 - and also collaborating with [Anish Mandal](https://github.com/anish-mandal), CTO of Tezucka.
 - You can see my current status and contact me through [linkedin.com](https://www.linkedin.com/in/sagnik-chatterjee-0bab96184/)
