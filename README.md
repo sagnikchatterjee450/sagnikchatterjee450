@@ -9,7 +9,8 @@
 - Top 5 at Teen Tech San Francisco.
 - I am currently working at [Tezucka](https://tezucka.xyz) as Chief Executive Officer
 - and also collaborating with [Anish Mandal](https://github.com/anish-mandal), CTO of Tezucka.
-- You can see my current status and contact me through [linkedin.com](https://www.linkedin.com/in/sagnik-chatterjee-0bab96184/)
+- You can see my current status and contact me through [linkedin.com](https://www.linkedin.com/in/sagnik-chatterjee-0bab96184
+- Checkout my Hackathon projects here! [Devpost Sagnik Chatterjee](https://devpost.com/sagnikchatterjee450).
 
 
 ## Operating System that I can use
