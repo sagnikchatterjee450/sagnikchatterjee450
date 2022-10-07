@@ -7,9 +7,9 @@
 - My full name is Sagnik Chatterjee. 
 - I am a 15 year old learning full stack web, python, Java developer based in India who want to dive into this ocean of tech, information, programming and understanding. 
 - Top 5 at Teen Tech San Francisco.
-- I am currently working at [Tezucka](https://tezucka.xyz) as Chief Executive Officer
+- I am currently working at [Tezucka](https://tezucka.xyz) as Chief Executive Officer.
 - and also collaborating with [Anish Mandal](https://github.com/anish-mandal), CTO of Tezucka.
-- You can see my current status and contact me through [linkedin.com](https://www.linkedin.com/in/sagnik-chatterjee-0bab96184
+- You can see my current status and contact me through [Linkedin](https://www.linkedin.com/in/sagnik-chatterjee-0bab96184).
 - Checkout my Hackathon projects here! [Devpost Sagnik Chatterjee](https://devpost.com/sagnikchatterjee450).
 
 
@@ -17,7 +17,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Andriod](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
@@ -35,12 +35,12 @@
 ![MIT App Inventor](https://img.shields.io/badge/Block%20Based-MIT%20App%20Inventor-brightgreen)
 
 ### Other Skills
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Premiere Pro](https://user-images.githubusercontent.com/47351101/145396362-04fe13b5-ef19-4fc0-b6fb-a345ff989237.png)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
 
 ## My Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sagnikchatterjee450&theme=blue-green)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikchatterjee450&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=sagnikchatterjee450&theme=blue-green)
