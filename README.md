@@ -10,37 +10,14 @@
 - I am currently working at [Tezucka](https://tezucka.xyz) as Chief Executive Officer.
 - and also collaborating with [Anish Mandal](https://github.com/anish-mandal), CTO of Tezucka.
 - You can see my current status and contact me through [Linkedin](https://www.linkedin.com/in/sagnik-chatterjee-0bab96184).
-- Checkout my Hackathon projects here! [Devpost Sagnik Chatterjee](https://devpost.com/sagnikchatterjee450).
+- Checkout my Hackathon projects here in [Devpost](https://devpost.com/sagnikchatterjee450).
 
+### I am familiar with
 
-## Operating System that I can use
+> 💻 Languages
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Andriod](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://skillicons.dev/icons?i=py,java,html,css,js,md)
 
+> 🛠️ Tools
 
-
-## Things I know
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![MIT App Inventor](https://img.shields.io/badge/Block%20Based-MIT%20App%20Inventor-brightgreen)
-
-### Other Skills
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-
-
-## My Stats
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikchatterjee450&theme=blue-green)
-![Stats](https://github-readme-stats.vercel.app/api?username=sagnikchatterjee450&theme=blue-green)
+![](https://skillicons.dev/icons?i=nodejs,react,heroku,ai,ps,pr)
